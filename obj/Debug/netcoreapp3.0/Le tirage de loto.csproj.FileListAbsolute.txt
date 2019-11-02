@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.exe
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.deps.json
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.runtimeconfig.json
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.dll
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\bin\Debug\netcoreapp3.0\Le tirage de loto.pdb
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\obj\Debug\netcoreapp3.0\Le tirage de loto.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\obj\Debug\netcoreapp3.0\Le tirage de loto.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\obj\Debug\netcoreapp3.0\Le tirage de loto.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\obj\Debug\netcoreapp3.0\Le tirage de loto.dll
+C:\Users\Dell\source\repos\Le tirage de loto\Le tirage de loto\obj\Debug\netcoreapp3.0\Le tirage de loto.pdb

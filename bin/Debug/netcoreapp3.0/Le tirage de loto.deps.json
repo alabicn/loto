@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Le tirage de loto/1.0.0": {
+        "runtime": {
+          "Le tirage de loto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Le tirage de loto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
